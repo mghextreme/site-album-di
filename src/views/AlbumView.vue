@@ -3,7 +3,7 @@
     <div class="smoke"></div>
     <div class="content">
       <div class="cover">
-        <img alt="Capa Álbum Amigo Melhor" src="/img/amigo-melhor.jpg" />
+        <img alt="Capa Álbum Amigo Melhor" src="img/amigo-melhor.jpg" />
         <h1>Amigo Melhor</h1>
       </div>
       <AlbumVolume
@@ -19,7 +19,7 @@
           deezerHref="https://deezer.page.link/DDUST2nk1iqjtgieA"
           youtubeHref="https://youtu.be/K5qgckMOAy0"
           appleMusicHref="https://music.apple.com/br/album/o-meu-amigo-%C3%A9-o-melhor/1659478455?i=1659478698"
-          pdf="./cifras/O Meu Amigo é o Melhor.pdf"></AlbumTrack>
+          pdf="./cifras/O Meu Amigo e o Melhor.pdf"></AlbumTrack>
         <AlbumTrack
           title="A Armadura de Deus"
           writer="Dietmar Jung"
@@ -51,7 +51,7 @@
           deezerHref="https://deezer.page.link/TGBnHA4FwiQeSKxZA"
           youtubeHref="https://youtu.be/uQRWth-dS2s"
           appleMusicHref="https://music.apple.com/br/album/t%C3%A1-ligado/1659478455?i=1659478709"
-          pdf="./cifras/Tá Ligado.pdf"></AlbumTrack>
+          pdf="./cifras/Ta Ligado.pdf"></AlbumTrack>
         <AlbumTrack
           title="Pacificador"
           writer="Dietmar Jung"
@@ -67,7 +67,7 @@
           deezerHref="https://deezer.page.link/nmCK4YY9UTLgZnH28"
           youtubeHref="https://youtu.be/Ex-RDxBAizI"
           appleMusicHref="https://music.apple.com/br/album/paci%C3%AAncia/1659478455?i=1659478714"
-          pdf="./cifras/Paciência.pdf"></AlbumTrack>
+          pdf="./cifras/Paciencia.pdf"></AlbumTrack>
         <AlbumTrack
           title="Por Mim e Por Você"
           writer="Crista Ott"
@@ -75,7 +75,7 @@
           deezerHref="https://deezer.page.link/PS7UnSdF7Pi8WZxH7"
           youtubeHref="https://youtu.be/-CRAZRLSy-Q"
           appleMusicHref="https://music.apple.com/br/album/por-mim-e-por-voc%C3%AA/1659478455?i=1659478717"
-          pdf="./cifras/Por Mim e Por Você.pdf"></AlbumTrack>
+          pdf="./cifras/Por Mim e Por Voce.pdf"></AlbumTrack>
         <AlbumTrack
           title="Hoje Somos Livres"
           writer="Denise Nones Bissigo e David Pabst"
@@ -91,7 +91,7 @@
           deezerHref="https://deezer.page.link/k2WaAk4EVykNrhPb8"
           youtubeHref="https://youtu.be/Bv_pzYtEKaA"
           appleMusicHref="https://music.apple.com/br/album/ora%C3%A7%C3%A3o/1659478455?i=1659478722"
-          pdf="./cifras/Oração.pdf"></AlbumTrack>
+          pdf="./cifras/Oracao.pdf"></AlbumTrack>
         <AlbumTrack
           title="Gálatas 5:22 e 23"
           writer="Crista Ott"
@@ -99,7 +99,7 @@
           deezerHref="https://deezer.page.link/AhQD9uN3mkczY3xt7"
           youtubeHref="https://youtu.be/f_PBOAyKpmc"
           appleMusicHref="https://music.apple.com/br/album/g%C3%A1latas-5-22-e-23/1659478455?i=1659478725"
-          pdf="./cifras/Gálatas 5.22 e 23.pdf"></AlbumTrack>
+          pdf="./cifras/Galatas 5.22 e 23.pdf"></AlbumTrack>
         <AlbumTrack
           title="Pouco a Pouco"
           writer=""
