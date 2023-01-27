@@ -117,6 +117,11 @@
           appleMusicHref="https://music.apple.com/br/album/louvar-a-deus/1659478455?i=1659478942"
           pdf="./cifras/Louvar a Deus.pdf"></AlbumTrack>
       </AlbumVolume>
+      <div class="text">
+        Essa é uma compilação musical em sintonia com os temas e ensinamentos bíblicos apresentados nos retiros bíblicos e programações infantis da <a href="https://www.meuc.org.br/" target="_blank">Missão Evangélica União Cristã</a>.<br/><br/>
+        Somos gratos por que Deus abençoou essa iniciativa e desejamos que essas músicas possam ser um canal de benção, transformação e edificação alcançando mais e mais pessoas através das plataformas de streaming digital.<br/><br/>
+        Você pode fazer parte desse sonho: Ouça e compartilhe!
+      </div>
       <img class="logo" alt="Departamento Infantil" src="../assets/logos-rodape-branco.png" />
     </div>
   </div>
@@ -186,9 +191,23 @@ export default {
     }
   }
 
+  .text {
+    margin: 4em 4em 2em;
+    text-align: center;
+
+    a {
+      color: inherit;
+
+      &:hover,
+      &:focus {
+        opacity: .7;
+      }
+    }
+  }
+
   img.logo {
     display: block;
-    margin: 4em auto 2em;
+    margin: 2em auto 2em;
     width: 240px;
     max-width: 40%;
   }
