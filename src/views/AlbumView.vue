@@ -122,7 +122,16 @@
         Somos gratos por que Deus abençoou essa iniciativa e desejamos que essas músicas possam ser um canal de benção, transformação e edificação alcançando mais e mais pessoas através das plataformas de streaming digital.<br/><br/>
         Você pode fazer parte desse sonho: Ouça e compartilhe!
       </div>
-      <img class="logo" alt="Departamento Infantil" src="../assets/logos-rodape-branco.png" />
+      <div class="socials">
+        <SocialNetwork social="di" title="Site Departamento Infantil" href="https://infantil.meuc.org.br/"></SocialNetwork>
+        <SocialNetwork social="instagram" title="Instagram" href="https://www.instagram.com/meucdi/"></SocialNetwork>
+        <SocialNetwork social="facebook" title="Facebook" href="https://www.facebook.com/MeucDI/"></SocialNetwork>
+        <SocialNetwork social="meuc" title="Site MEUC" href="https://www.meuc.org.br/"></SocialNetwork>
+      </div>
+      <div class="text">
+        Se deseja contribuir com este projeto, você doar para a nossa Chave Pix:<br/>
+        E-mail: <b>departamento.infantil@meuc.org.br</b>
+      </div>
     </div>
   </div>
 </template>
@@ -130,12 +139,14 @@
 <script>
 import AlbumTrack from '@/components/AlbumTrack.vue'
 import AlbumVolume from '@/components/AlbumVolume.vue'
+import SocialNetwork from '@/components/SocialNetwork.vue'
 
 export default {
   name: 'AlbumView',
   components: {
     AlbumTrack,
-    AlbumVolume
+    AlbumVolume,
+    SocialNetwork
   }
 }
 </script>
@@ -192,7 +203,7 @@ export default {
   }
 
   .text {
-    margin: 4em 4em 2em;
+    margin: 2em 4em;
     text-align: center;
 
     a {
@@ -205,11 +216,20 @@ export default {
     }
   }
 
-  img.logo {
-    display: block;
-    margin: 2em auto 2em;
-    width: 240px;
-    max-width: 40%;
+  .socials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    a {
+      display: block;
+      padding: .5em;
+
+      &:hover,
+      &:focus {
+        opacity: .7;
+      }
+    }
   }
 }
 
@@ -239,10 +259,6 @@ export default {
       h1 {
         font-size: 1.4em;
       }
-    }
-
-    img.logo {
-      max-width: 60%;
     }
   }
 }
