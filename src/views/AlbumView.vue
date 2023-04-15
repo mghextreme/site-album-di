@@ -46,7 +46,7 @@
           pdf="./cifras/Como Neemias.pdf"></AlbumTrack>
         <AlbumTrack
           title="Tá Ligado"
-          writer="Nikole Kellermann Nack"
+          writer="Nicole Kellermann Nack"
           spotifyHref="https://open.spotify.com/track/2v57EoksSvfcnxPD58ARPp?si=cd37f1034bc2464d"
           deezerHref="https://deezer.page.link/TGBnHA4FwiQeSKxZA"
           youtubeHref="https://youtu.be/uQRWth-dS2s"
