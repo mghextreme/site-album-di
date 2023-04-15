@@ -129,8 +129,8 @@
         <SocialNetwork social="meuc" title="Site MEUC" href="https://www.meuc.org.br/"></SocialNetwork>
       </div>
       <div class="text">
-        Se deseja contribuir com este projeto, você doar para a nossa Chave Pix:<br/>
-        E-mail: <b>departamento.infantil@meuc.org.br</b>
+        Se deseja contribuir com este projeto, você doar entrar em contato pelo e-mail:
+        <b><a href="mailto:departamento.infantil@meuc.org.br" target="_blank">departamento.infantil@meuc.org.br</a></b>
       </div>
     </div>
   </div>
