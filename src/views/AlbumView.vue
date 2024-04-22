@@ -3,11 +3,98 @@
     <div class="smoke"></div>
     <div class="content">
       <div class="cover">
-        <img alt="Capa Álbum Amigo Melhor" src="img/amigo-melhor.jpg" />
-        <h1>Amigo Melhor</h1>
+        <img alt="Capa Álbum Amigo Melhor 2" src="img/amigo-melhor-2.jpg" />
+        <div class="titles">
+          <h1>Amigo Melhor</h1>
+          <h3>Volume 2</h3>
+        </div>
       </div>
       <AlbumVolume
-        title="Volume 1"
+        spotifyHref="https://open.spotify.com/album/4bpuh4TFN92cQhIwx6pdOv?si=f7gG6zQRRR-ZTlDDjcuXFg"
+        deezerHref="https://deezer.page.link/NzHsxXzEpjCAsaEZ9"
+        youtubeHref="https://youtube.com/playlist?list=PLHk3BpuztL62YRSTQM6T1MTbJeWTQ6zRf&si=52ryGhA4_OXOvW5z"
+        appleMusicHref="https://music.apple.com/br/album/amigo-melhor-vol-2/1738248600">
+        <AlbumTrack
+          title="Quero Caminhar com Jesus"
+          writer="Thais Gabriella Reinert da Silva Hudler"
+          spotifyHref="https://open.spotify.com/track/2yxR1CuuyTC4FQbAS87jaN?si=ae3405a28946407b"
+          deezerHref="https://deezer.page.link/aqbdSdVVMCFYHzEx8"
+          youtubeHref="https://youtu.be/oRg92ML3pLM?si=DwHHAH5Gu9bWR41d"
+          appleMusicHref="https://music.apple.com/br/album/quero-caminhar-com-jesus/1738248600?i=1738248607"
+          pdf="./cifras/Quero Caminhar com Jesus.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="As Bem-Aventuranças"
+          writer="Dietmar Jung"
+          spotifyHref="https://open.spotify.com/track/7usXX0X8zUK7V0zgV7dm3d?si=40457946b1fe4d2c"
+          deezerHref="https://deezer.page.link/uTnFqQg839dQjzyM9"
+          youtubeHref="https://youtu.be/E24OlMji5oo?si=v1-TfWVLUOH5nJcO"
+          appleMusicHref="https://music.apple.com/br/album/as-bem-aventuran%C3%A7as/1738248600?i=1738248614"
+          pdf="./cifras/As Bem-Aventurancas.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Todo Enrolado"
+          writer="Christel Grigull"
+          spotifyHref="https://open.spotify.com/track/6qRhnvkV9S4CLMMO8DqdnY?si=c2a50845df2c4980"
+          deezerHref="https://deezer.page.link/vzd2L419971oDSQb9"
+          youtubeHref="https://youtu.be/9Eb4Gr-ZVoU?si=ipSrw579TBG-qR4R"
+          appleMusicHref="https://music.apple.com/br/album/todo-enrolado/1738248600?i=1738248828"
+          pdf="./cifras/Todo Enrolado.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Me Ensina a Caminhar"
+          writer="CBB 2012"
+          spotifyHref="https://open.spotify.com/track/7plupfgMsaaa9l9CbvL419?si=4ed3cab4bfc3407e"
+          deezerHref="https://deezer.page.link/4LZrGXVcdM8jZXHM6"
+          youtubeHref="https://youtu.be/9gpHOUVoMQI?si=LMURRyoAill2vgRK"
+          appleMusicHref="https://music.apple.com/br/album/me-ensina-a-caminhar/1738248600?i=1738248835"
+          pdf="./cifras/Me Ensina a Caminhar.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Entrega Teu Caminho"
+          writer="Simone Brietzig "
+          spotifyHref="https://open.spotify.com/track/76KeHHI7d2EWpm6cxvAhfi?si=267f9966316044d7"
+          deezerHref="https://deezer.page.link/k7m2rcuMqYQz8Cd2A"
+          youtubeHref="https://youtu.be/-4XTjFF6pqE?si=5m61khw32g8IgP16"
+          appleMusicHref="https://music.apple.com/br/album/entrega-teu-caminho/1738248600?i=1738248842"
+          pdf="./cifras/Entrega Teu Caminho.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Forte e Corajoso"
+          writer="Denise Nones Bissigo e David Pabst"
+          spotifyHref="https://open.spotify.com/track/6ggI4DAOsHGVM3rDZEeq2i?si=7ebe81c4761f4a01"
+          deezerHref="https://deezer.page.link/cN4zAJMHN662UKbh7"
+          youtubeHref="https://youtu.be/D4Yq1OwykKA?si=kDogvVkVEMOUAty9"
+          appleMusicHref="https://music.apple.com/br/album/forte-e-corajoso/1738248600?i=1738248851"
+          pdf="./cifras/Forte e Corajoso.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Pedro"
+          writer="Crista Ott"
+          spotifyHref="https://open.spotify.com/track/0Uq4vibnGiYITTpNU2P7Sk?si=c70e086be83f4cd5"
+          deezerHref="https://deezer.page.link/L3AFo5rkGfZXE8E89"
+          youtubeHref="https://youtu.be/zhEGtxwLx1s?si=KGGRNatmYvP2E5VQ"
+          appleMusicHref="https://music.apple.com/br/album/pedro/1738248600?i=1738248987"
+          pdf="./cifras/Pedro.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Eu Sou o Caminho"
+          writer="Nicole Kellermann Nack"
+          spotifyHref="https://open.spotify.com/track/0fjS3LrmgssKfpbQXWsJqd?si=b62b4b162422432a"
+          deezerHref="https://deezer.page.link/5r6mAERiM1HwjWMq8"
+          youtubeHref="https://youtu.be/9TfCleWlArs?si=4hHuQ454PX8FxvEK"
+          appleMusicHref="https://music.apple.com/br/album/eu-sou-o-caminho/1738248600?i=1738248996"
+          pdf="./cifras/Eu Sou o Caminho.pdf"></AlbumTrack>
+        <AlbumTrack
+          title="Vou Cantar em Louvor"
+          writer="Dietmar Jung"
+          spotifyHref="https://open.spotify.com/track/3PqMeYZtjbZ4yt9c03hq6f?si=8d5dfefd8d1448e8"
+          deezerHref="https://deezer.page.link/5WpQwMjSDcvtV1sAA"
+          youtubeHref="https://youtu.be/iguqo7g8feI?si=_9gNbVHELRH-GfXw"
+          appleMusicHref="https://music.apple.com/br/album/vou-cantar-em-louvor/1738248600?i=1738249002"
+          pdf="./cifras/Vou Cantar em Louvor.pdf"></AlbumTrack>
+      </AlbumVolume>
+      <div class="cover space">
+        <img alt="Capa Álbum Amigo Melhor 1" src="img/amigo-melhor.jpg" />
+        <div class="titles">
+          <h1>Amigo Melhor</h1>
+          <h3>Volume 1</h3>
+        </div>
+      </div>
+      <AlbumVolume
         spotifyHref="https://open.spotify.com/album/2IsbelzhNoq2XkhaKO1MOw"
         deezerHref="https://www.deezer.com/album/385880307"
         youtubeHref="https://www.youtube.com/playlist?list=PLHk3BpuztL6190W4q5HL0qnmoEym-aQ2p"
@@ -186,19 +273,32 @@ export default {
     padding: 2em 1em;
     margin-bottom: 2em;
 
+    &.space {
+      margin-top: 3em;
+    }
+
     img {
       max-width: 30%;
       margin-right: 2em;
       box-shadow: 2px 2px 8px -2px rgba(0,0,0,0.6);
     }
 
-    h1 {
-      font-size: 2em;
-      line-height: 1em;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: .4em;
+    .titles {
       text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
+      text-transform: uppercase;
+        line-height: 1em;
+
+      h1 {
+        font-size: 2em;
+        font-weight: 600;
+        letter-spacing: .4em;
+      }
+
+      h3 {
+        margin-top: 1em;
+        font-size: 1.2em;
+        letter-spacing: .3em;
+      }
     }
   }
 
